@@ -1,0 +1,1 @@
+# squares-mini-project
