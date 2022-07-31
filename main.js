@@ -10,7 +10,7 @@ for (i = 0; i < 550; i++) {
         squares.style.backgroundColor = "#" + randColor;
     })
     squares.addEventListener("mouseout", function(){
-        // squares.style.backgroundColor = null
+        squares.style.backgroundColor = null
     })
 }
 
